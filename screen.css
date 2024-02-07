@@ -31,7 +31,8 @@ img{
     margin-top: 32px;
     margin-left: 64px;
     margin-right: 200px;
-    height: 400px;
+    margin-bottom: 32px;
+    height: 350px;
     width: auto;
 }
 
