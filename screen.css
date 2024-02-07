@@ -1,5 +1,18 @@
 /* Add screen styles below */
+/* Add screen styles below */
+body {
+    margin: 0;
+    padding: 0;
+}
+
 nav {
-  background-color: #4C5760;
-  padding: 12px;
+    background-color: #4C5760;
+    padding:12px;
+    margin: 0 auto;
+  }
+
+nav a {
+    font-size: 24px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
 }
